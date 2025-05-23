@@ -1,4 +1,4 @@
-#Simple to-do list with REACT
+# Simple to-do list with REACT
 
 This repository contains scripts that will help you organize your day with a simple to-do list.
 
