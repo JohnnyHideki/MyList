@@ -1,3 +1,10 @@
+#Simple to-do list with REACT
+
+This repository contains scripts that will help you organize your day with a simple to-do list.
+
+It's great for understanding how to use React in a small, basic project.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
